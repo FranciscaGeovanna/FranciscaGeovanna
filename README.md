@@ -15,7 +15,7 @@ Welcome to my GitHub profile!
 - Frontend: HTML, CSS, React
 - Backend: Node.js, Laravel
 - Databases: MySQL, PostgreSQL, MongoDB
-- Tools: Git and VS Code
+- Tools: Git, VS Code
 
 ## <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> GitHub Stats
 
@@ -27,4 +27,8 @@ Welcome to my GitHub profile!
 
 ## 📂 Projects
 
-- [Invictus Academy](https://github.com/FranciscaGeovanna/Academia): This project was carried out to complete the WEB Programming I course, using a PHP Laravel framework and the .blade extension to create the project's displays and the database used was MySql. 
+- [Wine Cellar](https://github.com/FranciscaGeovanna/Wine-Cellar-Management): This project is being developed for the Integrator Project I course, using the SpringBoot framework to create an API, and also creating a desktop project using Swing and the PostgreSql database.
+
+- [Invictus Academy](https://github.com/FranciscaGeovanna/Academia): This project was carried out to complete the WEB Programming I course, using a PHP Laravel framework and the .blade extension to create the project's displays and the database used was MySql.
+
+- [Online Library](https://github.com/FranciscaGeovanna/Biblioteca-PWEBI): This project was carried out as part of the assessment of the WEB Programming I course, applying frontend and backend with PHP and the database used was MySql.
