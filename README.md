@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - ⚡ Fun fact: I like reading books and learning new things
 - 💻 Experience: Back-end Journey (Node.js) - AWS Cloud Context no Scholarship Program – Compass UOL
 
-## ⚙️ Tecnologias e Ferramentas 
+## ⚙️ Technologies and tools 
 
 - Languages: Python, Java, JavaScript, PHP
 - Frontend: HTML, CSS, React
