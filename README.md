@@ -32,3 +32,7 @@ Welcome to my GitHub profile!
 - [Invictus Academy](https://github.com/FranciscaGeovanna/Academia): This project was carried out to complete the WEB Programming I course, using a PHP Laravel framework and the .blade extension to create the project's displays and the database used was MySql.
 
 - [Online Library](https://github.com/FranciscaGeovanna/Biblioteca-PWEBI): This project was carried out as part of the assessment of the WEB Programming I course, applying frontend and backend with PHP and the database used was MySql.
+
+🔗 Links
+
+- [LinkedIn](https://www.linkedin.com/in/geovanna-silva-a79ab4294/)
