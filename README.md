@@ -27,7 +27,7 @@ Welcome to my GitHub profile!
 
 ## 📂 Projects
 
-- [Wine Cellar](https://github.com/FranciscaGeovanna/Wine-Cellar-Management): This project is being developed for the Integrator Project I course, using the SpringBoot framework to create an API, and also creating a desktop project using Swing and the PostgreSql database.
+- [Wine Cellar](https://github.com/FranciscaGeovanna/Wine-Cellar-Management): This project was developed for the Integrator Project I course, using the SpringBoot framework to create an API and also creating a desktop project using Swing and the PostgreSql database.
 
 - [Invictus Academy](https://github.com/FranciscaGeovanna/Academia): This project was carried out to complete the WEB Programming I course, using a PHP Laravel framework and the .blade extension to create the project's displays and the database used was MySql.
 
